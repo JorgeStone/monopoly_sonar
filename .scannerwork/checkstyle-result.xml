@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\NonAchetable.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Plateau.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Achetable.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Case.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\ParcGratuit.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\AllerEnPrison.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Constructible.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Joueur.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\MainMonopoly.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Gare.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Prison.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\Depart.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\main\java\com\mycompany\monopoly\NoMoreMoneyException.java">
+</file>
+<file name="C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\src\test\java\com\mycompany\monopoly\AppTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.5.0" sequence="0" timestamp="1641465997963" analysisTimestamp="1641467353070" release="">
+  <Project>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Achetable.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\AllerEnPrison.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Case.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Constructible.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Depart.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Gare.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Joueur.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\MainMonopoly.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\NoMoreMoneyException.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\NonAchetable.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\ParcGratuit.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Plateau.class</Jar>
+    <Jar>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes\com\mycompany\monopoly\Prison.class</Jar>
+    <AuxClasspathEntry>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>C:\Users\jquis\OneDrive\Escritorio\CENTRALE NANTES 2022\003 MEDEV\TP3\tp-pgm-quispe_venegas\monopoly-main\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="2">
+    <MissingClass>makeConcatWithConstants</MissingClass>
+    <MissingClass>test</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Thu, 6 Jan 2022 11:46:37 +0100" total_classes="13" referenced_classes="62" total_bugs="0" total_size="342" num_packages="1" java_version="11.0.11" vm_version="11.0.11+9" cpu_seconds="8.16" clock_seconds="2.82" peak_mbytes="279.24" alloc_mbytes="1996.00" gc_seconds="0.03">
+    <FileStats path="com/mycompany/monopoly/Achetable.java" bugCount="0" size="27"/>
+    <FileStats path="com/mycompany/monopoly/AllerEnPrison.java" bugCount="0" size="6"/>
+    <FileStats path="com/mycompany/monopoly/Case.java" bugCount="0" size="12"/>
+    <FileStats path="com/mycompany/monopoly/Constructible.java" bugCount="0" size="50"/>
+    <FileStats path="com/mycompany/monopoly/Depart.java" bugCount="0" size="4"/>
+    <FileStats path="com/mycompany/monopoly/Gare.java" bugCount="0" size="30"/>
+    <FileStats path="com/mycompany/monopoly/Joueur.java" bugCount="0" size="64"/>
+    <FileStats path="com/mycompany/monopoly/MainMonopoly.java" bugCount="0" size="38"/>
+    <FileStats path="com/mycompany/monopoly/NoMoreMoneyException.java" bugCount="0" size="3"/>
+    <FileStats path="com/mycompany/monopoly/NonAchetable.java" bugCount="0" size="8"/>
+    <FileStats path="com/mycompany/monopoly/ParcGratuit.java" bugCount="0" size="6"/>
+    <FileStats path="com/mycompany/monopoly/Plateau.java" bugCount="0" size="90"/>
+    <FileStats path="com/mycompany/monopoly/Prison.java" bugCount="0" size="4"/>
+    <PackageStats package="com.mycompany.monopoly" total_bugs="0" total_types="13" total_size="342">
+      <ClassStats class="com.mycompany.monopoly.Achetable" sourceFile="Achetable.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.AllerEnPrison" sourceFile="AllerEnPrison.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Case" sourceFile="Case.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Constructible" sourceFile="Constructible.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Depart" sourceFile="Depart.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Gare" sourceFile="Gare.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Joueur" sourceFile="Joueur.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.MainMonopoly" sourceFile="MainMonopoly.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.NoMoreMoneyException" sourceFile="NoMoreMoneyException.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.NonAchetable" sourceFile="NonAchetable.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.ParcGratuit" sourceFile="ParcGratuit.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Plateau" sourceFile="Plateau.java" interface="false" size="90" bugs="0"/>
+      <ClassStats class="com.mycompany.monopoly.Prison" sourceFile="Prison.java" interface="false" size="4" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="456" invocations="2" avgMicrosecondsPerInvocation="228274" maxMicrosecondsPerInvocation="269166" standardDeviationMicrosecondsPerInvocation="40892"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="354" invocations="640" avgMicrosecondsPerInvocation="554" maxMicrosecondsPerInvocation="14048" standardDeviationMicrosecondsPerInvocation="1140"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="114" invocations="644" avgMicrosecondsPerInvocation="177" maxMicrosecondsPerInvocation="4275" standardDeviationMicrosecondsPerInvocation="204"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="91" invocations="62" avgMicrosecondsPerInvocation="1479" maxMicrosecondsPerInvocation="17356" standardDeviationMicrosecondsPerInvocation="3012"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="66" invocations="62" avgMicrosecondsPerInvocation="1077" maxMicrosecondsPerInvocation="10290" standardDeviationMicrosecondsPerInvocation="1856"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="59" invocations="237" avgMicrosecondsPerInvocation="251" maxMicrosecondsPerInvocation="5140" standardDeviationMicrosecondsPerInvocation="485"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="42" invocations="65" avgMicrosecondsPerInvocation="653" maxMicrosecondsPerInvocation="34758" standardDeviationMicrosecondsPerInvocation="4264"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="37" invocations="62" avgMicrosecondsPerInvocation="608" maxMicrosecondsPerInvocation="9600" standardDeviationMicrosecondsPerInvocation="1347"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="37" invocations="598" avgMicrosecondsPerInvocation="61" maxMicrosecondsPerInvocation="1347" standardDeviationMicrosecondsPerInvocation="115"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="36" invocations="62" avgMicrosecondsPerInvocation="581" maxMicrosecondsPerInvocation="14277" standardDeviationMicrosecondsPerInvocation="1872"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="35" invocations="118" avgMicrosecondsPerInvocation="303" maxMicrosecondsPerInvocation="15688" standardDeviationMicrosecondsPerInvocation="1463"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="32" invocations="64" avgMicrosecondsPerInvocation="508" maxMicrosecondsPerInvocation="6699" standardDeviationMicrosecondsPerInvocation="1176"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="31" invocations="64" avgMicrosecondsPerInvocation="495" maxMicrosecondsPerInvocation="5135" standardDeviationMicrosecondsPerInvocation="1022"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="31" invocations="68" avgMicrosecondsPerInvocation="465" maxMicrosecondsPerInvocation="8204" standardDeviationMicrosecondsPerInvocation="1110"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="29" invocations="64" avgMicrosecondsPerInvocation="463" maxMicrosecondsPerInvocation="7340" standardDeviationMicrosecondsPerInvocation="1072"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="28" invocations="65" avgMicrosecondsPerInvocation="445" maxMicrosecondsPerInvocation="9527" standardDeviationMicrosecondsPerInvocation="1263"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="26" invocations="64" avgMicrosecondsPerInvocation="417" maxMicrosecondsPerInvocation="7991" standardDeviationMicrosecondsPerInvocation="1043"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="24" invocations="62" avgMicrosecondsPerInvocation="391" maxMicrosecondsPerInvocation="12150" standardDeviationMicrosecondsPerInvocation="1533"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
